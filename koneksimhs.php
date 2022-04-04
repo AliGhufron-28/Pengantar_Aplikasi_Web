@@ -15,7 +15,7 @@ if (isset($_POST["cari"])){
     crossorigin="anonymous">
 </head>
 <body>
-<h1 class="text-center">Ubah Data Mahasiswa</h1>
+<h1 class="text-center">Data Mahasiswa</h1>
     <div class="container">
     <a class="btn btn-success" href="inputmhs.php">Tambah Data Mahasiswa</a>
     <form action="" method="post">
